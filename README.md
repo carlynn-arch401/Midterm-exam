@@ -1,4 +1,3 @@
-# Midterm-exam
 <!DOCTYPE html>
 <html>
 <head>
